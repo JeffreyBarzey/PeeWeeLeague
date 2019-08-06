@@ -1,0 +1,48 @@
+.box1 {
+    order: 1;
+}
+
+
+.box3{
+    order: 3;
+}
+
+.box2{
+    
+    order: 2;
+}
+
+.box4{
+    
+    order: 4;
+}
+
+
+.box{
+   
+    
+}
+
+.container {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    flex: 0 70%;
+    
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+
+.admin {
+    display: flex;
+    justify-content: space-around;
+    
+}
